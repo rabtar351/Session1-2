@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\models\\entities\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\models\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\model\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\model\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\controllers\\eventemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\eventemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\model\\documentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\documentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\model\\documentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\documentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\model\\eventemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\eventemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\model\\eventemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\eventemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\models\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\model\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\models\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication1\\webapplication1\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73C6F01-4767-4843-B5D8-B8FC67C85A72}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Entities\\Department.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:08:04.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Entities\\Position.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\Position.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Entities\\Position.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Entities\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:07:13.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswGQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:39:52.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwB0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:13:59.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\EmployeeModel.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EmployeeModel.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADgvzQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:16:54.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DocumentModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\DocumentModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\DocumentModel.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\DocumentModel.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\DocumentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:20:52.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:13:47.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\EventController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:14:30.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventEmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\EventEmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EventEmployeeController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\EventEmployeeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EventEmployeeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAWwCEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:14:44.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:13:33.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\EmployeeRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\EmployeeRequest.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EmployeeRequest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:48:15.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DocumentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\DocumentRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\DocumentRequest.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\DocumentRequest.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\DocumentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:48:05.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventEmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\EventEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EventEmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\EventEmployeeRequest.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EventEmployeeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:49:21.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventEmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\EventEmployeeModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EventEmployeeModel.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\EventEmployeeModel.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EventEmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:19:26.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Entities\\Document.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\Document.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Entities\\Document.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Entities\\Document.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:18:40.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Jwt\\JwtService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Jwt\\JwtService.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Jwt\\JwtService.cs",
+              "RelativeToolTip": "WebApplication1\\Jwt\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:15:45.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\EventModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EventModel.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Model\\EventModel.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EventModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:17:24.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Entities\\Event.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Entities\\Event.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:19:31.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T08:12:00.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:21:37.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:39:25.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
