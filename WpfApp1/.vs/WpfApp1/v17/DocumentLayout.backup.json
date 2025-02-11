@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\wpfapp1\\wpfapp1\\views\\cardemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\views\\cardemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\wpfapp1\\wpfapp1\\views\\cardemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\views\\cardemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\wpfapp1\\wpfapp1\\models\\positionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\positionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\wpfapp1\\wpfapp1\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\wpfapp1\\wpfapp1\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F361F70-41BF-4480-83AB-C7860274CE9D}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:05:51.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardEmployeeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\Views\\CardEmployeeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Views\\CardEmployeeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\Views\\CardEmployeeWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Views\\CardEmployeeWindow.xaml.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAwJwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:01:26.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:26:26.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardEmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\Views\\CardEmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Views\\CardEmployeeWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\Views\\CardEmployeeWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\Views\\CardEmployeeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-11T09:31:23.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-11T05:26:30.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\Models\\DepartmentModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\DepartmentModel.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\Models\\DepartmentModel.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\DepartmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:06:03.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PositionModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\Models\\PositionModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\PositionModel.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WpfApp1\\WpfApp1\\Models\\PositionModel.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\PositionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:06:51.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
