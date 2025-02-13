@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81D7B65F-292D-42E9-B1BF-B3D2D3A9CF47}|WebApplication3\\WebApplication3.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication3\\webapplication3\\mainform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{81D7B65F-292D-42E9-B1BF-B3D2D3A9CF47}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\mainform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D7B65F-292D-42E9-B1BF-B3D2D3A9CF47}|WebApplication3\\WebApplication3.csproj|C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication3\\webapplication3\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{81D7B65F-292D-42E9-B1BF-B3D2D3A9CF47}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication3\\WebApplication3\\style.css",
+              "RelativeDocumentMoniker": "WebApplication3\\style.css",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication3\\WebApplication3\\style.css",
+              "RelativeToolTip": "WebApplication3\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-13T08:11:12.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.aspx",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication3\\WebApplication3\\MainForm.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\MainForm.aspx",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication3\\WebApplication3\\MainForm.aspx",
+              "RelativeToolTip": "WebApplication3\\MainForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-13T08:07:33.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

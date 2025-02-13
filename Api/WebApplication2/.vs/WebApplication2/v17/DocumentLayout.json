@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication2\\webapplication2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication2\\webapplication2\\model\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication2\\webapplication2\\model\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication2\\webapplication2\\model\\documentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\documentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication2\\webapplication2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication2\\webapplication2\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication2\\webapplication2\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication2\\webapplication2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication2\\webapplication2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication2\\webapplication2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\webapplication2\\webapplication2\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A5DBFE-89E5-406C-9AF9-85E915967394}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Model\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Model\\EmployeeModel.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\EmployeeModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wCkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:16:05.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Model\\EmployeeRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\EmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Model\\EmployeeRequest.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\EmployeeRequest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:16:39.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:36:39.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwGQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:14:02.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:22:58.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:16:43.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Model\\DocumentRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\DocumentRequest.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Model\\DocumentRequest.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\DocumentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:40:30.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:12:21.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:36:37.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Position.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:42:25.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Department.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Department.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:42:42.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

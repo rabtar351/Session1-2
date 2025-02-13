@@ -1,0 +1,62 @@
+﻿<Window x:Class="WpfApp3.Views.CardEmployeeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3.Views"
+        mc:Ignorable="d" Loaded="Window_Loaded"
+        Title="CardEmployeeWindow" Height="450" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="167*"/>
+            <RowDefinition Height="50*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Row="0" Grid.RowSpan="2" x:Name="gridBlock1" IsEnabled="False">
+            <StackPanel>
+                <Label Content="Имя"/>
+                <TextBox x:Name="txbFirstName"/>
+                <Label Content="Фамилия"/>
+                <TextBox x:Name="txbLastName"/>
+                <Label Content= "Отчество"/>
+                <TextBox x:Name="txbPatronymic"/>
+                <Label Content="Мобильный телефон"/>
+                <TextBox x:Name="txbMobilePhone"/>
+                <Label Content="День рождения"/>
+                <DatePicker x:Name="dpDateBirth"/>
+                <Label Content="Струтурное подразделение"/>
+                <ComboBox x:Name="cmbDepartment"/>
+                <Label Content="Должность"/>
+                <ComboBox x:Name="cmbPositwon"/>
+
+                <Button Content="Потвердить" x:Name="btnEditSave" Margin="0,30,0,10" Padding="6" Click="btnEditSave_Click"/>
+                <Button Content="Выход" x:Name="btnExit"  Padding="6" Click="btnExit_Click"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Row="0" Grid.Column="2" Grid.RowSpan="2" x:Name="gridBlock2">
+            <StackPanel>
+                <Label Content="Непосредственный руководитель"/>
+                <ComboBox x:Name="cmbDirector"/>
+                <Label Content="Ассистент"/>
+                <ComboBox x:Name="cmbAssistest"/>
+                <Label Content="Рабочий телефон"/>
+                <TextBox x:Name="txbWorkPhone"/>
+                <Label Content="Электронная почта"/>
+                <TextBox x:Name="txbEmail"/>
+                <Label Content="Кабинет"/>
+                <TextBox x:Name="txbOffice"/>
+                <Label Content="Прочя информация"/>
+                <TextBox x:Name="txbInfo" Height="85" Background="LightGray"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Row="2" Grid.Column="2">
+            <Button x:Name="btnEdit" Background="Bisque" Content="✏" Click="btnEdit_Click"/>
+        </Grid>
+    </Grid>
+</Window>

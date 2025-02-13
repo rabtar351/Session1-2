@@ -1,0 +1,22 @@
+﻿body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    background-color: chartreuse;
+    padding: 10px 20px;
+}
+
+.Logo img {
+    width: 5em;
+}
+
+.search-bar {
+    flex-grow: 1;
+    margin-left: 20px;
+    padding: 10px;
+    border: 1px solid;
+}

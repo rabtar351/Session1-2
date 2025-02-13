@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zsI0FvF6/1s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Магнат\\source\\repos\\WpfApp3\\WpfApp3\\WpfApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Магнат\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
